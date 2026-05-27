@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/estilos.css">
+<script src="js/carrusel.js"></script>
+</head>
+<body>
+
+<header>
+<img src="img/logo.png">
+<h1>Taller Mecánico</h1>
+</header>
+
+<div class="menu">
+<a href="index_publico.php">Inicio</a>
+<a href="index.php">Login</a>
+<a href="contacto.php">Contacto</a>
+</div>
+
+<div class="container">
+<h2>Bienvenido</h2>
+<img id="imgCarrusel" src="img/taller1.jpg" width="100%">
+</div>
+
+</body>
+</html>
